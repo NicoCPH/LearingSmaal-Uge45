@@ -1,0 +1,7 @@
+dtos\ChuckNorrisDTO.class
+utils\HttpUtils.class
+dtos\JokeDTO.class
+jokefetcher\JokeFetcher.class
+rest\ApplicationConfig.class
+rest\JokeResource.class
+dtos\DadJokeDTO.class
